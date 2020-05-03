@@ -1,37 +1,51 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
 
-You can use the [editor on GitHub](https://github.com/zay1615/jay.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Jay Shrestha</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="screen" href="assets/css/main.css">
+    <meta name="theme-color" content="#032b38">
+    <link href="https://fonts.googleapis.com/css?family=Oswald&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Raleway:200,100,400" rel="stylesheet" type="text/css" />
+</head>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<body>
+    <div class="main">
+       <section class="side" id="left">
+            <section id="work-links" class="center-links">
+                <div class="links-title">Internships</div>
+                <ul class="links">
+                    <li class="links-item"><a href="Spartan Motors>
+                    <li class="links-item"><a href="Daktronics>
+                  </ul>
+            </section>
+        </section>
+        
+        <section class="side" id="right">
+            <main>
+                <h1>Jay Shrestha</h1>
+                <h2>
+                    <span
+                            class="txt-rotate"
+                            data-period="2000"
+                            data-rotate='[ "Mechanical Engineer"]'>
+                        <script src="assets/js/script.js"> </script>
+                    </span>
+                </h2>
+            </main>
+            <section id="online-links" class="center-links">
+                <div class="links-title">Online</div>
+                <ul class="links">
+                    <li class="links-item"><a href="www.linkedin.com/in/jay-shrestha-1615er">Linkedin</a></li>
+                    <li class="links-item"><a href="./resume/">Resume</a></li>
+                </ul>
+            </section>
+            <footer><a href="mailto:jayshrestha1615@gmail.com?subject= Great news: I want to Hire you">Email me</a></footer>
+        </section>
+    </div>
+</body>
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zay1615/jay.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</html>
